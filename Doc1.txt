@@ -3,4 +3,8 @@ B
 C
 D
 
+<<<<<<< HEAD
 Add Doc 1 from Clone
+=======
+Added from Doc1 Real
+>>>>>>> 8e21866a77cc34deb76f89eabb75c4b131781a42
